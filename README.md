@@ -1,2 +1,2 @@
 # lexemer
-Made this lexemer for fun
+Made this thing for fun. Nothing special.
